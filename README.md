@@ -1,0 +1,2 @@
+# CapstoneProject-Starbucks
+Build a machine learning model that predicts whether or not someone will respond to an offer and determines the level of response or the user actions like transaction, offer completed, offer received, offer viewed etc based on the demographic attributes of the customer and other offer attributes; which can be used to discover the ways to elevate the future customer response. This model is to be trained using the Starbucks dataset that contains simulated data that mimics customer behaviour on the Starbucks rewards mobile app. 
